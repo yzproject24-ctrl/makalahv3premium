@@ -33,6 +33,14 @@ Dibuat oleh **YZ PROJECT** · Instagram [@yzproject24](https://instagram.com/yzp
 
 Kode aktivasi diperoleh dari YZ PROJECT.
 
+### Jika kuota habis
+
+Saat kuota pulih, kirim `lanjut` di chat yang sama.
+
+### Jika perlu file PDF referensi
+
+Pilih jalur Google Colab pada formulir. Jalur ini memberi file PDF dan pengecekan otomatis, tetapi memakai lebih banyak langkah dan kuota.
+
 ## Batasan
 
 - Hasil tetap wajib dibaca dan diperiksa oleh penulisnya.
