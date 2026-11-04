@@ -26,20 +26,12 @@ Dibuat oleh **YZ PROJECT** · Instagram [@yzproject24](https://instagram.com/yzp
 
 ## Cara Pakai
 
-1. Unduh `YZMakalahV3Premium.zip`.
-2. Kirim ZIP ke chat Claude Sonnet atau model di atasnya. Fitur eksekusi kode dan pembuatan file harus aktif.
+1. Unduh `YZMakalahV3Premium.zip` dari halaman [Releases](https://github.com/yzproject24-ctrl/makalahv3premium/releases/latest), di bagian **Assets**. Jangan memakai tombol **Code > Download ZIP**.
+2. Buka chat baru di Claude, lalu lampirkan ZIP tanpa diekstrak.
 3. Ketik: `Baca file BACA_DULU di ZIP ini. Kode saya: <kode aktivasi>`
 4. Isi formulir yang muncul, lalu tunggu file selesai dibuat.
 
 Kode aktivasi diperoleh dari YZ PROJECT.
-
-### Jika kuota habis
-
-Saat kuota pulih, kirim `lanjut` di chat yang sama.
-
-### Jika perlu file PDF referensi
-
-Pilih jalur Google Colab pada formulir. Jalur ini memberi file PDF dan pengecekan otomatis, tetapi memakai lebih banyak langkah dan kuota.
 
 ## Batasan
 
